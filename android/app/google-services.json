@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "413064755970",
+    "project_id": "abhimanyu-herbal-juice-6fa8e",
+    "storage_bucket": "abhimanyu-herbal-juice-6fa8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413064755970:android:6b828f06601f4afa35201b",
+        "android_client_info": {
+          "package_name": "com.abhi_herbal_private.new_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413064755970-ngoslvll0esk89tp4ff8h9qj8g70omlu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhi_herbal_private.new_flutter_app",
+            "certificate_hash": "5d7657e32f8bcbe2ecdd77d62c1a66802277c9c5"
+          }
+        },
+        {
+          "client_id": "413064755970-nuel2v43g6dqf5ibpq1ttl1s1r6jhcso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxeDh82249SZ7dtE6YWHwTwiJmTECARA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413064755970-nuel2v43g6dqf5ibpq1ttl1s1r6jhcso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
